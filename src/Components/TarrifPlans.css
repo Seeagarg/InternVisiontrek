@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    Col{
+        height:"55vh";
+        width:"20vw";
+    }
+  }

@@ -1,0 +1,21 @@
+
+img{
+    height:70vh;
+    weight:80vw;
+}
+
+.input-class::placeholder {
+    color: white;
+  }
+
+/* .btn{
+    width:10vw;
+} */
+
+@media only screen and (max-width: 600px) {
+    img{
+        height: 40vh;
+        width:80vw;
+    }
+    
+  }
